@@ -1,0 +1,28 @@
+name: shaylorphoto
+favicon: null
+layout_spectrum: 0.2700394536368549
+typography_spectrum: 0.7652889383025467
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.96537418756634
+  lightness: 0.6972944624722004
+  saturation: 0.2399272001348436
+  rhythmicContrast: 0.8401812855154276
+purpose: []
